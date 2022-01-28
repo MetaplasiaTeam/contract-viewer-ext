@@ -1,6 +1,6 @@
 # Contract Viewer Extension
 
-[点击安装](Contract-Viewer-Extension.js)
+[点击安装](https://greasyfork.org/scripts/439253-contract-viewer-extension/code/Contract%20Viewer%20Extension.user.js)
 
 本油猴脚本是针对 VS Code 扩展 [Contract Viewer](https://github.com/MetaplasiaTeam/vscode-contract-viewer) 的一个简单的插件。
 

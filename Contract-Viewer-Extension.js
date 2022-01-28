@@ -6,12 +6,13 @@
 // @author       EndureBlaze
 // @match        https://etherscan.io/address/*
 // @match        https://bscscan.com/address/*
-// @icon         https://www.google.com/s2/favicons?domain=segmentfault.com
+// @icon         https://raw.githubusercontent.com/MetaplasiaTeam/vscode-contract-viewer/main/image/logo.png
 // @run-at document-end
-// @updateURL    
+// @license MIT
+// @updateURL
 // @grant       GM_addStyle
 // ==/UserScript==
-
+/* jshint esversion: 6 */
 (function () {
   "use strict";
 
